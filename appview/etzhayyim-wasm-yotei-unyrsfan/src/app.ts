@@ -29,7 +29,7 @@ const embed = () =>
 <body style="margin:0;background:#0a0a0a">
   <div id="app"></div>
   <script type="module">
-    import('/assets/index-CVyOo9pD.js');
+    import('/js/app.js');
     window.parent?.postMessage({type:'etzhayyim:embed:ready',nanoid:'unyrsfan'},'*');
   </script>
 </body>
